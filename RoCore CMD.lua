@@ -1,6 +1,7 @@
 --==Made by LuisPambid==--
 --==RoCore CMD==--
 
+
 local player=game.Players.LocalPlayer
 local char=player.Character
 repeat wait() until player and char

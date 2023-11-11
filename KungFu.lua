@@ -2,7 +2,6 @@
 --==KungFu==--
 
 
-
 repeat wait() until game.Players.LocalPlayer and game.Players.LocalPlayer.Character
 local player=game.Players.LocalPlayer
 local char=player.Character

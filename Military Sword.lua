@@ -1,6 +1,7 @@
 --==Made by LuisPambid==--
 --==Military Sword==--
 
+
 wait(.1)
 repeat wait() until game.Players.LocalPlayer and game.Players.LocalPlayer.Character:findFirstChild("Torso")
 local modelName="Military Sword" --Name here
